@@ -41,8 +41,9 @@ ul {
 }
 
 .container {
-	width: 100%;
+	max-width: 1440px;
 	padding: 3rem 5rem;
+	margin: 0 auto;
 	overflow: hidden;
 }
 
@@ -465,6 +466,10 @@ i {
 		padding-top: 0.5rem;
 	}
 
+	.early-access {
+		padding: 3rem 5rem;
+	}
+
 	.fylo-link {
 		justify-content: center;
 		padding: 2rem 0;
@@ -572,6 +577,10 @@ i {
 		max-width: 80px;
 		height: auto;
 		margin-top: 0.5rem;
+	}
+
+	.early-access {
+		padding: 3rem 5rem;
 	}
 
 	.showcase-img-1 {
